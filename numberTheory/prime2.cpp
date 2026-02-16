@@ -12,6 +12,6 @@ bool check(int n){
 int main(){
     ios::sync_with_stdio(0);
     cin.tie(0);
-    cout << check(21);
+    cout << check(67);
     return 0;
 }
